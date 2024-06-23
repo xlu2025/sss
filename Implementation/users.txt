@@ -1,0 +1,11 @@
+resident1,password1,1
+resident2,password2,1
+resident3,password3,1
+resident4,password4,1
+resident5,password5,1
+cityuser,passwordcity,0
+nonresident1,password6,2
+nonresident2,password7,2
+nonresident3,password8,2
+nonresident4,password9,2
+nonresident5,password10,2

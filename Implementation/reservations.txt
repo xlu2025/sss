@@ -1,0 +1,11 @@
+1,resident1,1,0,10,0
+2,resident2,2,0,10,0
+3,resident3,3,0,10,0
+4,resident4,4,0,10,0
+5,resident5,5,0,10,0
+6,cityuser,6,0,5,0
+7,nonresident1,7,0,15,0
+8,nonresident2,8,0,15,0
+9,nonresident3,9,0,15,0
+10,nonresident4,10,0,15,0
+11,nonresident5,11,0,15,1
